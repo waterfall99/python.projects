@@ -1,8 +1,8 @@
 import random
 import time
-import combat
-import merchant
-from player import Player
+import dungeon_game.combat as combat
+import dungeon_game.merchant as merchant
+from dungeon_game.player import Player
 
 def introduction():
     print("\n--- Welcome to the Python Dungeon ---")
