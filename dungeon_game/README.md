@@ -1,6 +1,6 @@
 # Python Dungeon Explorer
 
-A simple, text-based dungeon crawler built entirely in Python.
+A simple, text-based dungeon crawler I made while learning Python.
 
 I started this project to practice Object-Oriented Programming (OOP) and get comfortable managing a functional game loop. It is completely text-based, focusing entirely on logic, code structure, and player decisions.
 
